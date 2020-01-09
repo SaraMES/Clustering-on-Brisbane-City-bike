@@ -1,2 +1,2 @@
 #! /usr/bin/python
-python3 ../clustering.py
+python3 ../citybike.py
