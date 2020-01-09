@@ -69,3 +69,6 @@ Here are some conclusions:
 1. With DBSCAN, some stations would be missing and some clusters’ sizes are too small; With KMeans, all stations would be clustered and their sizes are similar.
 2. With DBSCAN, we can separate stations which are on the different side of the river; With KMeans, stations on the different side of the river can not be well-separated.
 3. Using the great circle distance metrics would get more reasonable and also better clustering result.
+
+
+# Clustering-on-Brisbane-City-bike => for more details look at the code(citybike.ipynb) from GOOGLE COLAB
