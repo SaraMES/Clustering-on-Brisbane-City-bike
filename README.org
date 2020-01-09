@@ -1,2 +1,11 @@
 # Clustering-on-Brisbane-City-bike
 #+TITLE: Static geographical information of CityBike‘s stations in Brisbane (“Brisbane_CityBike.json”)
+
+* Table of Contents                                       :TOC_4_gh:noexport:
+- [[#Dataset][Dataset]]
+    - [[#Schema][schema]]
+- [[#Spatial Clustering][Spatial Clustering]]
+    - [[#Kmeans][Kmeans]]
+    - [[#DBSCAN][DBSCAN]]
+    - [[#Observation & Comparisons][Observation & Comparisons]]
+  
