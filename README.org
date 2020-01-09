@@ -9,3 +9,18 @@
     - [[#DBSCAN][DBSCAN]]
     - [[#Observation & Comparisons][Observation & Comparisons]]
   
+* Dataset
+- Brisbane Bike Trip Histories
+* Schema
+- number
+- name
+- adress
+- latitude
+- longiture
+
+|----------------------+--------------+------------+----------|
+|  df_loc = pd.read_json("sample_data/Brisbane_CityBike.json")|
+   df_loc.head()                                              |
+|                                                             |
+|----------------------+--------------+------------+----------|
+    
